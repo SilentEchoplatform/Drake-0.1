@@ -27,3 +27,6 @@ python drake.py --target USERNAME --wordlist passwords.txt
 Disclaimer
 This tool is for ethical security testing only. Unauthorized use on accounts you do not own is illegal.
 ![pytube pro](drake_logo.png)
+
+
+If you enjoy what I do, consider supporting me on Ko-fi! Every little bit means the world! https://ko-fi.com/silentecho_platfom
