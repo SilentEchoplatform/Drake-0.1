@@ -1,5 +1,4 @@
 # Drake-0.1
-```
 Drake - Instagram Brute Force Tool
 
 Drake is a Python tool designed to test Instagram account security by attempting password guessing using custom wordlists.
@@ -27,4 +26,3 @@ python drake.py --target USERNAME --wordlist passwords.txt
 
 Disclaimer
 This tool is for ethical security testing only. Unauthorized use on accounts you do not own is illegal.
-``` 
